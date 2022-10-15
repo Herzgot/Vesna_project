@@ -1,0 +1,7 @@
+14/10/2022
+- Vytvorenie sloziek : gallery, statistics, livestream, 	aboutproject
+- vytvorenie routov pre slozky
+- zmena farby sablony
+- odstranenie reduntantnych prvkov bootstrapu: advertisery
+
+ 
